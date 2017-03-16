@@ -1,0 +1,12 @@
+{
+    "name": "stevepop/laraquotes",
+    "description": "A package to generate inspiring quotes",
+    "authors": [
+        {
+            "name": "Steve Popoola",
+            "email": "stevepop@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
